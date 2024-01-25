@@ -34,8 +34,8 @@ object Client {
 
     const val CLIENT_BEST = "NightX"
     const val CLIENT_FOLDER = "NightWare"
-    const val CLIENT_VERSION = "Beta B82"
-    const val CLIENT_CREATOR = "As_pw"
+    const val CLIENT_VERSION = "Beta B83 fanmade"
+    const val CLIENT_CREATOR = "denizwsa"
     const val CLIENT_WEBSITE = "https://aspw-w.github.io/NightX-Web"
     const val CLIENT_ANNOUNCEMENT = "$CLIENT_WEBSITE/database/announcement.txt"
     const val CLIENT_CHAT = "§b§l>> §r"
