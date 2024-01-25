@@ -19,9 +19,9 @@ import net.minecraft.network.play.server.*
 import kotlin.concurrent.thread
 
 @ModuleInfo(
-    name = "StaffProtection",
-    spacedName = "Staff Protection",
-    description = "",
+    name = "StaffDodger",
+    spacedName = "Staff fucker",
+    description = "beasikli staff dodger",
     category = ModuleCategory.OTHER
 )
 class StaffProtection : Module() {
